@@ -1,6 +1,6 @@
 {
   "name": "wolkenkit-box-node-modules",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "wolkenkit-box-node-modules is the shared node_modules container for wolkenkit applications.",
   "contributors": [
     {
