@@ -21,7 +21,7 @@
     }
   ],
   "devDependencies": {
-    "roboter": "3.0.4"
+    "roboter": "13.2.1"
   },
   "scripts": {
     "build": "docker build -t thenativeweb/wolkenkit-node-modules ."
